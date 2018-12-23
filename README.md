@@ -28,7 +28,7 @@ To run the code type,
 There are two Input Methods:
   1. word(required) numberOfImage gap
   2. -f csv_name (For reading line wise data from csv) 
-  3.Q/q to quit
+  3. Q/q to quit
 
 Here, numberOfImage is the count of different images required for the corresponding word. Each Image will have random font for each character. And, gap is an integer value (-5 to 5) which controls the pixel width between two characters in an image.
 
