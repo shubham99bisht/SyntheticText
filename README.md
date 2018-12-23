@@ -7,12 +7,12 @@ Image of size 28 X 28
 
 
 ## Code Requirements
-scipy 
-numpy
-PIL (Image)
-opencv (cv2)
-pandas
-os
+ scipy<br />
+ numpy<br />
+ PIL (Image)<br />
+ opencv (cv2)<br />
+ pandas<br />
+ os<br />
 
 ### Requires EMNIST (emnist-byclass.mat) Matlab format dataset which can be downloaded from:
 https://www.nist.gov/itl/iad/image-group/emnist-dataset
