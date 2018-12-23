@@ -14,6 +14,10 @@ opencv (cv2)
 pandas
 os
 
+### Requires EMNIST (emnist-byclass.mat) Matlab format dataset which can be downloaded from:
+https://www.nist.gov/itl/iad/image-group/emnist-dataset
+
+
 ## Description
 This API can be used to generate words with random handwritting at character level, which is will stored along with a corresponding text file with bounding box information. This can be used to generated Synthetic data for OCR training.
 
